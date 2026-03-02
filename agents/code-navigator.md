@@ -56,3 +56,5 @@ Other agents with tool-lsp can handle simple single-operation lookups directly (
 - Summarize findings concisely
 - Suggest follow-up exploration paths
 - Note any LSP limitations encountered (e.g., "goToImplementation not supported by this server")
+
+@foundation:context/LANGUAGE_PHILOSOPHY.md
